@@ -1,7 +1,7 @@
 export const homeObjOne = {
-  lightBg: true,
-  lightText: false,
-  lightTextDesc: false,
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
   topLine: "Exclusive Access",
   headline: "Unlimited Transactions with zero fees",
   description:
@@ -13,9 +13,9 @@ export const homeObjOne = {
 };
 
 export const homeObjTwo = {
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
   topLine: '100% SECURE',
   headline: 'Stay protected 24/7 anywhere anytime',
   description:
@@ -27,9 +27,9 @@ export const homeObjTwo = {
 };
 
 export const homeObjThree = {
-  lightBg: true,
-  lightText: false,
-  lightTextDesc: false,
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
   topLine: 'EASY SETUP',
   headline: 'Super fast and simple onboarding process',
   description:
